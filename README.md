@@ -1,1 +1,7 @@
-# 7-1-Final-Project-Submission
+# 8-3 Journal: Portfolio Submission
+
+For this project, I learned that designing software takes planning before writing code. I started by thinking about how I wanted my 3D scene to look and then broke the work into smaller parts. This project helped me improve my design skills because I had to choose objects, colors, lighting, and camera positions that worked well together. I also learned that making small changes and testing them often makes it easier to solve problems. I can use this same design process in future projects because it helps me stay organized and avoid mistakes.
+
+While developing the program, I used an iterative approach. I built one feature at a time, tested it, and then improved it before moving to the next part. During the milestones, I learned how to use OpenGL, textures, lighting, transformations, and camera movement. As I gained more experience, I became more confident reading error messages and fixing bugs. My coding skills improved because I spent more time planning my work and testing it instead of trying to finish everything at once.
+
+This course showed me how computer science can help me reach my career goals as a software engineer. Learning computational graphics and visualization gave me experience with problem-solving, math, and programming. These skills will help me in future classes that use graphics or game development. They will also be useful in my career because many software jobs require developers to create visual applications, simulations, or user interfaces that are both useful and easy to understand.
